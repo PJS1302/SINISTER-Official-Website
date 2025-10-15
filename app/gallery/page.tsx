@@ -45,7 +45,7 @@ export default function FanGalleryPage() {
       const sampleItems: GalleryItem[] = [
         {
           id: "1",
-          url: "/horror-movie-poster.png",
+          url: "/https://www.bing.com/images/search?view=detailV2&ccid=BWDdcF3Z&id=4C17083EA5EA8E92F716F31CF9CF3FFC8C2AF394&thid=OIP.BWDdcF3ZlVzdSfUvHkZhawHaE7&mediaurl=https%3a%2f%2fcdn.pixabay.com%2fphoto%2f2023%2f05%2f16%2f17%2f07%2fhorror-7998137_1280.png&exph=853&expw=1280&q=copyright+free+horror+art+jpg+url+link&FORM=IRPRST&ck=6F42D6E50B101BA07556AB6FB6C69D8B&selectedIndex=1&itb=0&qpvt=copyright+free+horror+art+jpg+url+link",
           title: "Sinister Fan Art",
           author: "HorrorFan123",
           likes: 24,
@@ -54,7 +54,7 @@ export default function FanGalleryPage() {
         },
         {
           id: "2",
-          url: "/dark-horror-art-print.jpg",
+          url: "/https://www.bing.com/images/search?view=detailV2&ccid=5cHQ76kv&id=09BC55116238EF95BC2EB4934EB4FFF4F791E610&thid=OIP.5cHQ76kv7knnGXnGdye7NwHaEL&mediaurl=https%3a%2f%2fwallpaperaccess.com%2ffull%2f1871112.jpg&exph=700&expw=1240&q=copyright+free+horror+art+jpg+url+link&FORM=IRPRST&ck=0257B261ECEA5AA51496D0D15A0472E2&selectedIndex=17&itb=0",
           title: "Nightmare Landscape",
           author: "DarkArtist",
           likes: 18,
@@ -63,7 +63,7 @@ export default function FanGalleryPage() {
         },
         {
           id: "3",
-          url: "/creepy-horror-mask.jpg",
+          url: "/https://www.bing.com/images/search?view=detailV2&ccid=w1QAc3vA&id=F35EA88DD82B6F07D1B69EF3A662E406426CA847&thid=OIP.w1QAc3vAWaojkRkXkSLeeQAAAA&mediaurl=https%3a%2f%2fmir-s3-cdn-cf.behance.net%2fproject_modules%2fhd%2f503c1f91296939.5e2eaa1c064e2.jpg&exph=711&expw=474&q=copyright+free+horror+art+jpg+url+link&FORM=IRPRST&ck=FA10FE8BD31557FD69F690CCA6C4F5F9&selectedIndex=14&itb=0",
           title: "Custom Horror Mask",
           author: "MaskMaker",
           likes: 31,
